@@ -14,7 +14,8 @@ For better perfomance use [4Chan API](https://github.com/4chan/4chan-API).
 `pip3 install beautifulsoup4`
 
 ## Example
-parsing data could be: 'files', 'poster', 'quotes', 'text', 'all' or their combination
+parsing data could be: 'files', 'poster', 'quotes', 'text' or 'all' (and their combinations)
+
 For local html files & Dashchan archives:
 ```
 var = ImageboardThread(path, parsing_data)
