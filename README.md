@@ -1,7 +1,7 @@
 # 4chan/Dashchan thread parser
 
 This script made for 4chan/Dashchan threads scraping from existing html files.
-It soesn't matter which boards Dashchan archives are.
+It doesn't matter which boards Dashchan archives are.
 
 
 Script works fine with 4chan web treads scraping too, but, because of beautifulsoup4, his perfomance is not so good. 
