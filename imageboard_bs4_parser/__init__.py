@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# coding: utf-8
+
 # %%
 # This script is for 4chan threads scraping. More about dealing with already downloaded html files (and dashchan archive files), but working with web scraping as well.
 # If you want to use ONLY web scraping, maybe it's better to use 4chan API, it's faster - https://github.com/4chan/4chan-API
